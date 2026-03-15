@@ -1,0 +1,3 @@
+This gas sensor code was used to test my MQ-2 gas sensor in my gas leakage detector project. 
+The MQ-2 gas sensor is a versatile, low-cost semiconductor sensor used to detect flammable gases (LPG, propane, butane, methane, hydrogen) and smoke in concentrations from. 
+It operates at 5V DC, offering both analog (0-5V) and digital (HIGH/LOW) outputs via an onboard comparator, making it ideal for Arduino-based, DIY, and industrial leak detection.
